@@ -1,0 +1,3 @@
+use in terminal
+npm install create react-scripts
+npm i axios
